@@ -1,0 +1,6 @@
+E:\programing\c#\LibirarySystem\LibirarySystem\bin\LibirarySystem.dll.config
+E:\programing\c#\LibirarySystem\LibirarySystem\bin\LibirarySystem.dll
+E:\programing\c#\LibirarySystem\LibirarySystem\bin\LibirarySystem.pdb
+E:\programing\c#\LibirarySystem\LibirarySystem\obj\Debug\LibirarySystem.csprojResolveAssemblyReference.cache
+E:\programing\c#\LibirarySystem\LibirarySystem\obj\Debug\LibirarySystem.dll
+E:\programing\c#\LibirarySystem\LibirarySystem\obj\Debug\LibirarySystem.pdb
